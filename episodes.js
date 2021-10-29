@@ -22,7 +22,7 @@ function getOneEpisode() {
         "http://static.tvmaze.com/uploads/images/original_untouched/1/2668.jpg",
     },
     summary:
-      "<p>Lord Eddard Stark, ruler of the North, is summoned to court by his old friend, King Robert Baratheon, to serve as the King's Hand. Eddard reluctantly agrees after learning of a possible threat to the King's life. Eddard's bastard son Jon Snow must make a painful decision about his own future, while in the distant east Viserys Targaryen plots to reclaim his father's throne, usurped by Robert, by selling his sister in marriage.</p>",
+      "Lord Eddard Stark, ruler of the North, is summoned to court by his old friend, King Robert Baratheon, to serve as the King's Hand. Eddard reluctantly agrees after learning of a possible threat to the King's life. Eddard's bastard son Jon Snow must make a painful decision about his own future, while in the distant east Viserys Targaryen plots to reclaim his father's throne, usurped by Robert, by selling his sister in marriage.",
     _links: {
       self: {
         href: "http://api.tvmaze.com/episodes/4952",
@@ -51,7 +51,7 @@ function getAllEpisodes() {
           "http://static.tvmaze.com/uploads/images/original_untouched/1/2668.jpg",
       },
       summary:
-        "<p>Lord Eddard Stark, ruler of the North, is summoned to court by his old friend, King Robert Baratheon, to serve as the King's Hand. Eddard reluctantly agrees after learning of a possible threat to the King's life. Eddard's bastard son Jon Snow must make a painful decision about his own future, while in the distant east Viserys Targaryen plots to reclaim his father's throne, usurped by Robert, by selling his sister in marriage.</p>",
+        "Lord Eddard Stark, ruler of the North, is summoned to court by his old friend, King Robert Baratheon, to serve as the King's Hand. Eddard reluctantly agrees after learning of a possible threat to the King's life. Eddard's bastard son Jon Snow must make a painful decision about his own future, while in the distant east Viserys Targaryen plots to reclaim his father's throne, usurped by Robert, by selling his sister in marriage.",
       _links: {
         self: {
           href: "http://api.tvmaze.com/episodes/4952",
@@ -76,7 +76,7 @@ function getAllEpisodes() {
           "http://static.tvmaze.com/uploads/images/original_untouched/1/2669.jpg",
       },
       summary:
-        "<p>An incident on the Kingsroad threatens Eddard and Robert's friendship. Jon and Tyrion travel to the Wall, where they discover that the reality of the Night's Watch may not match the heroic image of it.</p>",
+        "An incident on the Kingsroad threatens Eddard and Robert's friendship. Jon and Tyrion travel to the Wall, where they discover that the reality of the Night's Watch may not match the heroic image of it.",
       _links: {
         self: {
           href: "http://api.tvmaze.com/episodes/4953",
@@ -100,7 +100,7 @@ function getAllEpisodes() {
           "http://static.tvmaze.com/uploads/images/original_untouched/1/2671.jpg",
       },
       summary:
-        "<p>Jon Snow attempts to find his place amongst the Night's Watch. Eddard and his daughters arrive at King's Landing.</p>",
+        "Jon Snow attempts to find his place amongst the Night's Watch. Eddard and his daughters arrive at King's Landing.",
       _links: {
         self: {
           href: "http://api.tvmaze.com/episodes/4954",
@@ -125,7 +125,7 @@ function getAllEpisodes() {
           "http://static.tvmaze.com/uploads/images/original_untouched/1/2673.jpg",
       },
       summary:
-        "<p>Tyrion stops at Winterfell on his way home and gets a frosty reception from Robb Stark. Eddard's investigation into the death of his predecessor gets underway.</p>",
+        "Tyrion stops at Winterfell on his way home and gets a frosty reception from Robb Stark. Eddard's investigation into the death of his predecessor gets underway.",
       _links: {
         self: {
           href: "http://api.tvmaze.com/episodes/4955",
@@ -150,7 +150,7 @@ function getAllEpisodes() {
           "http://static.tvmaze.com/uploads/images/original_untouched/1/2674.jpg",
       },
       summary:
-        "<p>Catelyn's actions on the road have repercussions for Eddard. Tyrion enjoys the dubious hospitality of the Eyrie.</p>",
+        "Catelyn's actions on the road have repercussions for Eddard. Tyrion enjoys the dubious hospitality of the Eyrie.",
       _links: {
         self: {
           href: "http://api.tvmaze.com/episodes/4956",
@@ -175,7 +175,7 @@ function getAllEpisodes() {
           "http://static.tvmaze.com/uploads/images/original_untouched/1/2676.jpg",
       },
       summary:
-        "<p>Viserys is increasingly frustrated by the lack of progress towards gaining his crown.</p>",
+        "Viserys is increasingly frustrated by the lack of progress towards gaining his crown.",
       _links: {
         self: {
           href: "http://api.tvmaze.com/episodes/4957",
@@ -200,7 +200,7 @@ function getAllEpisodes() {
           "http://static.tvmaze.com/uploads/images/original_untouched/1/2677.jpg",
       },
       summary:
-        "<p>Eddard's investigations in King's Landing reach a climax and a dark secret is revealed.</p>",
+        "Eddard's investigations in King's Landing reach a climax and a dark secret is revealed.",
       _links: {
         self: {
           href: "http://api.tvmaze.com/episodes/4958",
@@ -225,7 +225,7 @@ function getAllEpisodes() {
           "http://static.tvmaze.com/uploads/images/original_untouched/1/2678.jpg",
       },
       summary:
-        "<p>Tyrion joins his father's army with unexpected allies. Events in King's Landing take a turn for the worse as Arya's lessons are put to the test.</p>",
+        "Tyrion joins his father's army with unexpected allies. Events in King's Landing take a turn for the worse as Arya's lessons are put to the test.",
       _links: {
         self: {
           href: "http://api.tvmaze.com/episodes/4959",
@@ -249,7 +249,7 @@ function getAllEpisodes() {
           "http://static.tvmaze.com/uploads/images/original_untouched/1/2679.jpg",
       },
       summary:
-        "<p>Catelyn must negotiate with the irascible Lord Walder Frey.</p>",
+        "Catelyn must negotiate with the irascible Lord Walder Frey.",
       _links: {
         self: {
           href: "http://api.tvmaze.com/episodes/4960",
@@ -274,7 +274,7 @@ function getAllEpisodes() {
           "http://static.tvmaze.com/uploads/images/original_untouched/1/2681.jpg",
       },
       summary:
-        "<p>Daenerys must realize her destiny. Jaime finds himself in an unfamiliar predicament.</p>",
+        "Daenerys must realize her destiny. Jaime finds himself in an unfamiliar predicament.",
       _links: {
         self: {
           href: "http://api.tvmaze.com/episodes/4961",
@@ -299,7 +299,7 @@ function getAllEpisodes() {
           "http://static.tvmaze.com/uploads/images/original_untouched/1/3174.jpg",
       },
       summary:
-        "<p>War grips the continent of Westeros. As Tyrion Lannister tries to take his strong-willed nephew in hand in King's Landing, Stannis Baratheon launches his own campaign to take the Iron Throne with the help of a mysterious priestess. In the east, Daenerys must lead her retinue through a desolate wasteland whilst beyond the Wall the Night's Watch seeks the aid of a wildling.</p>",
+        "War grips the continent of Westeros. As Tyrion Lannister tries to take his strong-willed nephew in hand in King's Landing, Stannis Baratheon launches his own campaign to take the Iron Throne with the help of a mysterious priestess. In the east, Daenerys must lead her retinue through a desolate wasteland whilst beyond the Wall the Night's Watch seeks the aid of a wildling.",
       _links: {
         self: {
           href: "http://api.tvmaze.com/episodes/4962",
@@ -324,7 +324,7 @@ function getAllEpisodes() {
           "http://static.tvmaze.com/uploads/images/original_untouched/1/3175.jpg",
       },
       summary:
-        "<p>Stannis uses Ser Davos to seek out new allies for his war with the Lannisters. On the road north, Arya confides in Gendry. Robb Stark sends Theon Greyjoy to win an alliance with his father and the fierce warriors of the Iron Islands. Cersei and Tyrion clash on how to rule in King's Landing.</p>",
+        "Stannis uses Ser Davos to seek out new allies for his war with the Lannisters. On the road north, Arya confides in Gendry. Robb Stark sends Theon Greyjoy to win an alliance with his father and the fierce warriors of the Iron Islands. Cersei and Tyrion clash on how to rule in King's Landing.",
       _links: {
         self: {
           href: "http://api.tvmaze.com/episodes/4963",
@@ -349,7 +349,7 @@ function getAllEpisodes() {
           "http://static.tvmaze.com/uploads/images/original_untouched/1/3176.jpg",
       },
       summary:
-        "<p>Catelyn Stark treats with King Renly in the hope of winning an alliance. Tyrion undertakes a complex plan in King's Landing to expose an enemy. At Winterfell, Bran's dreams continue to trouble him.</p>",
+        "Catelyn Stark treats with King Renly in the hope of winning an alliance. Tyrion undertakes a complex plan in King's Landing to expose an enemy. At Winterfell, Bran's dreams continue to trouble him.",
       _links: {
         self: {
           href: "http://api.tvmaze.com/episodes/4964",
@@ -374,7 +374,7 @@ function getAllEpisodes() {
           "http://static.tvmaze.com/uploads/images/original_untouched/1/3177.jpg",
       },
       summary:
-        "<p>Tyrion attempts to restrain Joffrey's cruelty. Catelyn attempts to broker a peace between Stannis and Renly. Daenerys and her followers arrive at the great city of Qarth and hope to find refuge there. Arya and Gendry arrive at Harrenhal, a great castle now under Lannister occupation.</p>",
+        "Tyrion attempts to restrain Joffrey's cruelty. Catelyn attempts to broker a peace between Stannis and Renly. Daenerys and her followers arrive at the great city of Qarth and hope to find refuge there. Arya and Gendry arrive at Harrenhal, a great castle now under Lannister occupation.",
       _links: {
         self: {
           href: "http://api.tvmaze.com/episodes/4965",
@@ -399,7 +399,7 @@ function getAllEpisodes() {
           "http://static.tvmaze.com/uploads/images/original_untouched/1/3178.jpg",
       },
       summary:
-        "<p>Confusion rages in the Stormlands in the wake of a devastating reversal. Catelyn must flee with a new ally, whilst Littlefinger sees an opportunity in the chaos. Theon seeks to prove himself to his father in battle. Arya receives a promise from the enigmatic Jaqen H'ghar. The Night's Watch arrives at the Fist of the First Men. Daenerys Targaryen receives a marriage proposal.</p>",
+        "Confusion rages in the Stormlands in the wake of a devastating reversal. Catelyn must flee with a new ally, whilst Littlefinger sees an opportunity in the chaos. Theon seeks to prove himself to his father in battle. Arya receives a promise from the enigmatic Jaqen H'ghar. The Night's Watch arrives at the Fist of the First Men. Daenerys Targaryen receives a marriage proposal.",
       _links: {
         self: {
           href: "http://api.tvmaze.com/episodes/4966",
@@ -424,7 +424,7 @@ function getAllEpisodes() {
           "http://static.tvmaze.com/uploads/images/original_untouched/1/3180.jpg",
       },
       summary:
-        "<p>Arya has a surprise visitor; Dany vows to take what is hers; Joffrey meets his subjects; Qhorin gives Jon a chance to prove himself.</p>",
+        "Arya has a surprise visitor; Dany vows to take what is hers; Joffrey meets his subjects; Qhorin gives Jon a chance to prove himself.",
       _links: {
         self: {
           href: "http://api.tvmaze.com/episodes/4967",
@@ -449,7 +449,7 @@ function getAllEpisodes() {
           "http://static.tvmaze.com/uploads/images/original_untouched/1/3192.jpg",
       },
       summary:
-        "<p>Jaime meets a relative; Theon hunts; Dany receives an invitation.</p>",
+        "Jaime meets a relative; Theon hunts; Dany receives an invitation.",
       _links: {
         self: {
           href: "http://api.tvmaze.com/episodes/4968",
@@ -474,7 +474,7 @@ function getAllEpisodes() {
           "http://static.tvmaze.com/uploads/images/original_untouched/1/3194.jpg",
       },
       summary:
-        "<p>Theon holds the fort; Arya calls in her debt with Jaqen; Robb is betrayed; Stannis and Davos approach their destination.</p>",
+        "Theon holds the fort; Arya calls in her debt with Jaqen; Robb is betrayed; Stannis and Davos approach their destination.",
       _links: {
         self: {
           href: "http://api.tvmaze.com/episodes/4969",
@@ -499,7 +499,7 @@ function getAllEpisodes() {
           "http://static.tvmaze.com/uploads/images/original_untouched/1/3196.jpg",
       },
       summary:
-        "<p>A massive battle rages for control of King's Landing and the Iron Throne.</p>",
+        "A massive battle rages for control of King's Landing and the Iron Throne.",
       _links: {
         self: {
           href: "http://api.tvmaze.com/episodes/4970",
@@ -524,7 +524,7 @@ function getAllEpisodes() {
           "http://static.tvmaze.com/uploads/images/original_untouched/1/3197.jpg",
       },
       summary:
-        "<p>Tyrion awakens to a changed situation. King Joffrey doles out rewards to his subjects. As Theon stirs his men to action, Luwin offers some final advice. Brienne silences Jaime; Arya receives a gift from Jaqen; Dany goes to a strange place; Jon proves himself to Qhorin.</p>",
+        "Tyrion awakens to a changed situation. King Joffrey doles out rewards to his subjects. As Theon stirs his men to action, Luwin offers some final advice. Brienne silences Jaime; Arya receives a gift from Jaqen; Dany goes to a strange place; Jon proves himself to Qhorin.",
       _links: {
         self: {
           href: "http://api.tvmaze.com/episodes/4971",
@@ -549,7 +549,7 @@ function getAllEpisodes() {
           "http://static.tvmaze.com/uploads/images/original_untouched/1/2628.jpg",
       },
       summary:
-        "<p></p><p>Jon is brought before Mance Rayder, the King Beyond the Wall, while the Night's Watch survivors retreat south. In King's Landing, Tyrion asks for his reward. Littlefinger offers Sansa a way out. Cersei hosts a dinner for the royal family. Daenerys sails into Slaver's Bay.</p>",
+        "Jon is brought before Mance Rayder, the King Beyond the Wall, while the Night's Watch survivors retreat south. In King's Landing, Tyrion asks for his reward. Littlefinger offers Sansa a way out. Cersei hosts a dinner for the royal family. Daenerys sails into Slaver's Bay.",
       _links: {
         self: {
           href: "http://api.tvmaze.com/episodes/4972",
@@ -574,7 +574,7 @@ function getAllEpisodes() {
           "http://static.tvmaze.com/uploads/images/original_untouched/1/2618.jpg",
       },
       summary:
-        "<p>Sansa says too much. Shae asks Tyrion for a favor. Jaime finds a way to pass the time. Arya runs into the Brotherhood Without Banners.</p>",
+        "Sansa says too much. Shae asks Tyrion for a favor. Jaime finds a way to pass the time. Arya runs into the Brotherhood Without Banners.",
       _links: {
         self: {
           href: "http://api.tvmaze.com/episodes/4973",
@@ -599,7 +599,7 @@ function getAllEpisodes() {
           "http://static.tvmaze.com/uploads/images/original_untouched/1/2616.jpg",
       },
       summary:
-        "<p>Tyrion shoulders new responsibilities. Jon is taken to the Fist of the First Men. Daenerys meets with the slavers. Jaime strikes a deal with his captors.</p>",
+        "Tyrion shoulders new responsibilities. Jon is taken to the Fist of the First Men. Daenerys meets with the slavers. Jaime strikes a deal with his captors.",
       _links: {
         self: {
           href: "http://api.tvmaze.com/episodes/4974",
@@ -624,7 +624,7 @@ function getAllEpisodes() {
           "http://static.tvmaze.com/uploads/images/original_untouched/1/2615.jpg",
       },
       summary:
-        "<p>The Night's Watch takes stock. Varys meets his better. Arya is taken to the commander of the Brotherhood. Daenerys exchanges a chain for a Whip.</p>",
+        "The Night's Watch takes stock. Varys meets his better. Arya is taken to the commander of the Brotherhood. Daenerys exchanges a chain for a Whip.",
       _links: {
         self: {
           href: "http://api.tvmaze.com/episodes/4975",
@@ -649,7 +649,7 @@ function getAllEpisodes() {
           "http://static.tvmaze.com/uploads/images/original_untouched/1/2614.jpg",
       },
       summary:
-        "<p>The Hound is judged by the gods; Jaime is judged by men. Jon proves himself; Robb is betrayed. Tyrion learns the cost of weddings.</p>",
+        "The Hound is judged by the gods; Jaime is judged by men. Jon proves himself; Robb is betrayed. Tyrion learns the cost of weddings.",
       _links: {
         self: {
           href: "http://api.tvmaze.com/episodes/4976",
@@ -673,7 +673,7 @@ function getAllEpisodes() {
           "http://static.tvmaze.com/uploads/images/original_untouched/1/2612.jpg",
       },
       summary:
-        "<p>Tywin plans strategic unions for the Lannisters. Melisandre visits the Riverlands. Robb weighs a compromise to repair his alliance with House Frey. Roose Bolton decides what to do with Jaime Lannister. Jon, Ygritte and the Wildlings face a daunting climb.</p>",
+        "Tywin plans strategic unions for the Lannisters. Melisandre visits the Riverlands. Robb weighs a compromise to repair his alliance with House Frey. Roose Bolton decides what to do with Jaime Lannister. Jon, Ygritte and the Wildlings face a daunting climb.",
       _links: {
         self: {
           href: "http://api.tvmaze.com/episodes/4977",
@@ -698,7 +698,7 @@ function getAllEpisodes() {
           "http://static.tvmaze.com/uploads/images/original_untouched/1/2611.jpg",
       },
       summary:
-        "<p>Daenerys exchanges gifts with a slave lord outside Yunkai. As Sansa frets about her prospects, Shae chafes at Tyrion's new situation. Tywin counsels the king, and Melisandre reveals a secret to Gendry. Brienne faces a formidable foe in Harrenhal.</p>",
+        "Daenerys exchanges gifts with a slave lord outside Yunkai. As Sansa frets about her prospects, Shae chafes at Tyrion's new situation. Tywin counsels the king, and Melisandre reveals a secret to Gendry. Brienne faces a formidable foe in Harrenhal.",
       _links: {
         self: {
           href: "http://api.tvmaze.com/episodes/4978",
@@ -723,7 +723,7 @@ function getAllEpisodes() {
           "http://static.tvmaze.com/uploads/images/original_untouched/1/2599.jpg",
       },
       summary:
-        "<p>King's Landing hosts a wedding, and Tyrion and Sansa spend the night together. Daenerys meets the Titan's Bastard. Davos demands proof from Melisandre. Sam and Gilly meet an older Gentleman.</p>",
+        "King's Landing hosts a wedding, and Tyrion and Sansa spend the night together. Daenerys meets the Titan's Bastard. Davos demands proof from Melisandre. Sam and Gilly meet an older Gentleman.",
       _links: {
         self: {
           href: "http://api.tvmaze.com/episodes/4979",
@@ -748,7 +748,7 @@ function getAllEpisodes() {
           "http://static.tvmaze.com/uploads/images/original_untouched/1/2598.jpg",
       },
       summary:
-        "<p>Robb presents himself to Walder Frey, and Edmure meets his bride. Jon faces his harshest test yet. Bran discovers a new gift. Daario and Jorah debate how to take Yunkai. House Frey joins with House Tully.</p>",
+        "Robb presents himself to Walder Frey, and Edmure meets his bride. Jon faces his harshest test yet. Bran discovers a new gift. Daario and Jorah debate how to take Yunkai. House Frey joins with House Tully.",
       _links: {
         self: {
           href: "http://api.tvmaze.com/episodes/4980",
@@ -772,7 +772,7 @@ function getAllEpisodes() {
           "http://static.tvmaze.com/uploads/images/original_untouched/1/2597.jpg",
       },
       summary:
-        "<p>Joffrey challenges Tywin. Bran tells a ghost story. In Dragonstone, mercy comes from strange quarters. Daenerys waits to see if she is a conqueror or a liberator.</p>",
+        "Joffrey challenges Tywin. Bran tells a ghost story. In Dragonstone, mercy comes from strange quarters. Daenerys waits to see if she is a conqueror or a liberator.",
       _links: {
         self: {
           href: "http://api.tvmaze.com/episodes/4981",
@@ -797,7 +797,7 @@ function getAllEpisodes() {
           "http://static.tvmaze.com/uploads/images/original_untouched/1/2583.jpg",
       },
       summary:
-        "<p>Tyrion welcomes a guest to King's Landing. At Castle Black, Jon Snow finds himself unwelcome. Dany is pointed to Meereen, the mother of all slave cities. Arya runs into an old friend.</p>",
+        "Tyrion welcomes a guest to King's Landing. At Castle Black, Jon Snow finds himself unwelcome. Dany is pointed to Meereen, the mother of all slave cities. Arya runs into an old friend.",
       _links: {
         self: {
           href: "http://api.tvmaze.com/episodes/4982",
@@ -822,7 +822,7 @@ function getAllEpisodes() {
           "http://static.tvmaze.com/uploads/images/original_untouched/1/2584.jpg",
       },
       summary:
-        "<p>Tyrion lends Jaime a hand. Joffrey and Margaery host a breakfast. At Dragonstone, Stannis loses patience with Davos. Ramsay finds a purpose for his pet. North of the Wall, Bran sees where they must go.</p>",
+        "Tyrion lends Jaime a hand. Joffrey and Margaery host a breakfast. At Dragonstone, Stannis loses patience with Davos. Ramsay finds a purpose for his pet. North of the Wall, Bran sees where they must go.",
       _links: {
         self: {
           href: "http://api.tvmaze.com/episodes/4983",
@@ -847,7 +847,7 @@ function getAllEpisodes() {
           "http://static.tvmaze.com/uploads/images/original_untouched/1/2585.jpg",
       },
       summary:
-        "<p>Tyrion ponders his options. Tywin extends an olive branch. Sam realizes Castle Black isn't safe, and Jon proposes a bold plan. The Hound teaches Arya the way things are. Dany chooses her Champion.</p>",
+        "Tyrion ponders his options. Tywin extends an olive branch. Sam realizes Castle Black isn't safe, and Jon proposes a bold plan. The Hound teaches Arya the way things are. Dany chooses her Champion.",
       _links: {
         self: {
           href: "http://api.tvmaze.com/episodes/4984",
@@ -872,7 +872,7 @@ function getAllEpisodes() {
           "http://static.tvmaze.com/uploads/images/original_untouched/1/2586.jpg",
       },
       summary:
-        "<p>Dany balances justice and mercy. Jaime tasks Brienne with his honor. Jon secures volunteers while Bran, Jojen, Meera and Hodor stumble on shelter.</p>",
+        "Dany balances justice and mercy. Jaime tasks Brienne with his honor. Jon secures volunteers while Bran, Jojen, Meera and Hodor stumble on shelter.",
       _links: {
         self: {
           href: "http://api.tvmaze.com/episodes/4985",
@@ -897,7 +897,7 @@ function getAllEpisodes() {
           "http://static.tvmaze.com/uploads/images/original_untouched/1/2587.jpg",
       },
       summary:
-        "<p>Cersei and Tywin plot the Crown's next move. Dany discusses future plans. Jon embarks on a new mission.</p>",
+        "Cersei and Tywin plot the Crown's next move. Dany discusses future plans. Jon embarks on a new mission.",
       _links: {
         self: {
           href: "http://api.tvmaze.com/episodes/4986",
@@ -922,7 +922,7 @@ function getAllEpisodes() {
           "http://static.tvmaze.com/uploads/images/original_untouched/1/2588.jpg",
       },
       summary:
-        "<p>Stannis and Davos set sail with a new strategy. Dany meets with supplicants. Tyrion faces down his father in the throne room.</p>",
+        "Stannis and Davos set sail with a new strategy. Dany meets with supplicants. Tyrion faces down his father in the throne room.",
       _links: {
         self: {
           href: "http://api.tvmaze.com/episodes/4987",
@@ -947,7 +947,7 @@ function getAllEpisodes() {
           "http://static.tvmaze.com/uploads/images/original_untouched/1/2589.jpg",
       },
       summary:
-        "<p>Tyrion enlists an unlikely ally. Daario entreats Dany to allow him to do what he does best. Jon's warnings about the Wall's vulnerability fall on deaf ears. Brienne follows a new lead on the road with Pod.</p>",
+        "Tyrion enlists an unlikely ally. Daario entreats Dany to allow him to do what he does best. Jon's warnings about the Wall's vulnerability fall on deaf ears. Brienne follows a new lead on the road with Pod.",
       _links: {
         self: {
           href: "http://api.tvmaze.com/episodes/4988",
@@ -972,7 +972,7 @@ function getAllEpisodes() {
           "http://static.tvmaze.com/uploads/images/original_untouched/1/2591.jpg",
       },
       summary:
-        "<p>Mole's Town receives unexpected visitors. Littlefinger's motives are questioned. Ramsay attempts to prove himself to his father. Tyrion's fate is decided.</p>",
+        "Mole's Town receives unexpected visitors. Littlefinger's motives are questioned. Ramsay attempts to prove himself to his father. Tyrion's fate is decided.",
       _links: {
         self: {
           href: "http://api.tvmaze.com/episodes/4989",
@@ -997,7 +997,7 @@ function getAllEpisodes() {
           "http://static.tvmaze.com/uploads/images/original_untouched/1/2593.jpg",
       },
       summary:
-        "<p>Jon Snow and the rest of the Night's Watch face the biggest challenge to the Wall yet.</p>",
+        "Jon Snow and the rest of the Night's Watch face the biggest challenge to the Wall yet.",
       _links: {
         self: {
           href: "http://api.tvmaze.com/episodes/4990",
@@ -1022,7 +1022,7 @@ function getAllEpisodes() {
           "http://static.tvmaze.com/uploads/images/original_untouched/1/2594.jpg",
       },
       summary:
-        "<p>An unexpected arrival north of the Wall changes circumstances. Dany is forced to face harsh realities. Bran learns more of his destiny. Tyrion sees the truth of his situation.</p>",
+        "An unexpected arrival north of the Wall changes circumstances. Dany is forced to face harsh realities. Bran learns more of his destiny. Tyrion sees the truth of his situation.",
       _links: {
         self: {
           href: "http://api.tvmaze.com/episodes/4991",
@@ -1047,7 +1047,7 @@ function getAllEpisodes() {
           "http://static.tvmaze.com/uploads/images/original_untouched/10/25988.jpg",
       },
       summary:
-        "<p>Varys discusses a conspiracy with Tyrion; Daenerys' rule faces a new threat; Jon finds himself between two kings; and Cersei and Jaime try to move on from Tywin's demise.</p>",
+        "Varys discusses a conspiracy with Tyrion; Daenerys' rule faces a new threat; Jon finds himself between two kings; and Cersei and Jaime try to move on from Tywin's demise.",
       _links: {
         self: {
           href: "http://api.tvmaze.com/episodes/116522",
@@ -1072,7 +1072,7 @@ function getAllEpisodes() {
           "http://static.tvmaze.com/uploads/images/original_untouched/10/25989.jpg",
       },
       summary:
-        "<p>Arya arrives in Braavos; Brienne and Podrick find danger while traveling; Cersei worries about Myrcella in Dorne when Ellaria Sand seeks revenge for Oberyn's death; Jon is tempted by Stannis.</p>",
+        "Arya arrives in Braavos; Brienne and Podrick find danger while traveling; Cersei worries about Myrcella in Dorne when Ellaria Sand seeks revenge for Oberyn's death; Jon is tempted by Stannis.",
       _links: {
         self: {
           href: "http://api.tvmaze.com/episodes/144328",
@@ -1097,7 +1097,7 @@ function getAllEpisodes() {
           "http://static.tvmaze.com/uploads/images/original_untouched/10/25990.jpg",
       },
       summary:
-        "<p>Cersei meets the High Sparrow after learning of a clergyman's embarrassing tale. Meanwhile, Davos talks to Jon about the future of Winterfell, where Ramsay Snow has just learned the identity of his future bride; Arya grows impatient doing menial tasks in the House of Black and White; and Tyrion searches for more comfortable surroundings on a long trip with Varys.</p>",
+        "Cersei meets the High Sparrow after learning of a clergyman's embarrassing tale. Meanwhile, Davos talks to Jon about the future of Winterfell, where Ramsay Snow has just learned the identity of his future bride; Arya grows impatient doing menial tasks in the House of Black and White; and Tyrion searches for more comfortable surroundings on a long trip with Varys.",
       _links: {
         self: {
           href: "http://api.tvmaze.com/episodes/144329",
@@ -1122,7 +1122,7 @@ function getAllEpisodes() {
           "http://static.tvmaze.com/uploads/images/original_untouched/10/26444.jpg",
       },
       summary:
-        "<p>Margaery seeks prudent counsel. Jaime Struggles in foreign lands. Dany answers the Harpy's call.</p>",
+        "Margaery seeks prudent counsel. Jaime Struggles in foreign lands. Dany answers the Harpy's call.",
       _links: {
         self: {
           href: "http://api.tvmaze.com/episodes/144330",
@@ -1147,7 +1147,7 @@ function getAllEpisodes() {
           "http://static.tvmaze.com/uploads/images/original_untouched/10/26819.jpg",
       },
       summary:
-        "<p>Dany makes a difficult decision in Meereen. Jon recruits the help of an unexpected ally. Brienne searches for Sansa. Theon remains under Ramsay's control.</p>",
+        "Dany makes a difficult decision in Meereen. Jon recruits the help of an unexpected ally. Brienne searches for Sansa. Theon remains under Ramsay's control.",
       _links: {
         self: {
           href: "http://api.tvmaze.com/episodes/151777",
@@ -1172,7 +1172,7 @@ function getAllEpisodes() {
           "http://static.tvmaze.com/uploads/images/original_untouched/10/27259.jpg",
       },
       summary:
-        "<p>Arya trains. Jorah and Tyrion run into slavers. Trystane and Myrcella make plans. Jaime and Bronn reach their destination. The Sand Snakes attack.</p>",
+        "Arya trains. Jorah and Tyrion run into slavers. Trystane and Myrcella make plans. Jaime and Bronn reach their destination. The Sand Snakes attack.",
       _links: {
         self: {
           href: "http://api.tvmaze.com/episodes/152766",
@@ -1197,7 +1197,7 @@ function getAllEpisodes() {
           "http://static.tvmaze.com/uploads/images/original_untouched/11/27535.jpg",
       },
       summary:
-        "<p>Jon prepares for conflict. Sansa tries to talk to Theon. Brienne waits for a sign. Stannis remains stubborn. Jaime attempts to reconnect with family.</p><p><br><br></p>",
+        "Jon prepares for conflict. Sansa tries to talk to Theon. Brienne waits for a sign. Stannis remains stubborn. Jaime attempts to reconnect with family.",
       _links: {
         self: {
           href: "http://api.tvmaze.com/episodes/153327",
@@ -1222,7 +1222,7 @@ function getAllEpisodes() {
           "http://static.tvmaze.com/uploads/images/original_untouched/11/28151.jpg",
       },
       summary:
-        "<p>Arya makes progress in her training. Sansa confronts an old friend. Cersei struggles. Jon travels.</p><p><br><br></p>",
+        "Arya makes progress in her training. Sansa confronts an old friend. Cersei struggles. Jon travels.",
       _links: {
         self: {
           href: "http://api.tvmaze.com/episodes/155299",
@@ -1247,7 +1247,7 @@ function getAllEpisodes() {
           "http://static.tvmaze.com/uploads/images/original_untouched/11/29160.jpg",
       },
       summary:
-        "<p>Stannis confronts a troubling decision. Jon returns to The Wall. Mace visits the Iron Bank. Arya encounters someone from her past. Dany reluctantly oversees a traditional celebration of athleticism.</p>",
+        "Stannis confronts a troubling decision. Jon returns to The Wall. Mace visits the Iron Bank. Arya encounters someone from her past. Dany reluctantly oversees a traditional celebration of athleticism.",
       _links: {
         self: {
           href: "http://api.tvmaze.com/episodes/160040",
@@ -1272,7 +1272,7 @@ function getAllEpisodes() {
           "http://static.tvmaze.com/uploads/images/original_untouched/12/30012.jpg",
       },
       summary:
-        "<p>Cersei seeks forgiveness; Jon faces a new challenge; Arya plots to cross a name off her list; Tyrion sees a familiar face; and Daenerys finds herself surrounded by strangers.</p>",
+        "Cersei seeks forgiveness; Jon faces a new challenge; Arya plots to cross a name off her list; Tyrion sees a familiar face; and Daenerys finds herself surrounded by strangers.",
       _links: {
         self: {
           href: "http://api.tvmaze.com/episodes/162186",
@@ -1297,7 +1297,7 @@ function getAllEpisodes() {
           "http://static.tvmaze.com/uploads/images/original_untouched/56/142371.jpg",
       },
       summary:
-        "<p>Jon Snow is dead. Daenerys meets a strong man. Cersei sees her daughter again.</p>",
+        "Jon Snow is dead. Daenerys meets a strong man. Cersei sees her daughter again.",
       _links: {
         self: {
           href: "http://api.tvmaze.com/episodes/560813",
@@ -1321,7 +1321,7 @@ function getAllEpisodes() {
           "http://static.tvmaze.com/uploads/images/original_untouched/56/142372.jpg",
       },
       summary:
-        "<p>Bran trains with the Three-Eyed Raven. In King's Landing, Jaime advises Tommen. Tyrion demands good news, but has to make his own. At Castle Black, the Night's Watch stands behind Thorne. Ramsay Bolton proposes a plan, and Balon Greyjoy entertains other proposals.</p>",
+        "Bran trains with the Three-Eyed Raven. In King's Landing, Jaime advises Tommen. Tyrion demands good news, but has to make his own. At Castle Black, the Night's Watch stands behind Thorne. Ramsay Bolton proposes a plan, and Balon Greyjoy entertains other proposals.",
       _links: {
         self: {
           href: "http://api.tvmaze.com/episodes/664672",
@@ -1346,7 +1346,7 @@ function getAllEpisodes() {
           "http://static.tvmaze.com/uploads/images/original_untouched/56/142370.jpg",
       },
       summary:
-        "<p>Daenerys meets her future. Bran meets the past. Tommen confronts the High Sparrow. Arya trains to be No One. Varys finds an answer. Ramsay gets a gift.</p>",
+        "Daenerys meets her future. Bran meets the past. Tommen confronts the High Sparrow. Arya trains to be No One. Varys finds an answer. Ramsay gets a gift.",
       _links: {
         self: {
           href: "http://api.tvmaze.com/episodes/664673",
@@ -1371,7 +1371,7 @@ function getAllEpisodes() {
           "http://static.tvmaze.com/uploads/images/original_untouched/56/142273.jpg",
       },
       summary:
-        "<p>Tyrion strikes a deal. Jorah and Daario undertake a difficult task. Jaime and Cersei try to improve their situation.</p>",
+        "Tyrion strikes a deal. Jorah and Daario undertake a difficult task. Jaime and Cersei try to improve their situation.",
       _links: {
         self: {
           href: "http://api.tvmaze.com/episodes/664674",
@@ -1396,7 +1396,7 @@ function getAllEpisodes() {
           "http://static.tvmaze.com/uploads/images/original_untouched/60/150273.jpg",
       },
       summary:
-        "<p>Tyrion seeks a strange ally. Bran learns a great deal. Brienne goes on a mission. Arya is given a chance to prove herself.</p>",
+        "Tyrion seeks a strange ally. Bran learns a great deal. Brienne goes on a mission. Arya is given a chance to prove herself.",
       _links: {
         self: {
           href: "http://api.tvmaze.com/episodes/664675",
@@ -1421,7 +1421,7 @@ function getAllEpisodes() {
           "http://static.tvmaze.com/uploads/images/original_untouched/60/150274.jpg",
       },
       summary:
-        "<p>An old foe comes back into the picture. Gilly meets Sam's family. Arya faces a difficult choice. Jaime faces off against the High Sparrow.</p>",
+        "An old foe comes back into the picture. Gilly meets Sam's family. Arya faces a difficult choice. Jaime faces off against the High Sparrow.",
       _links: {
         self: {
           href: "http://api.tvmaze.com/episodes/664676",
@@ -1446,7 +1446,7 @@ function getAllEpisodes() {
           "http://static.tvmaze.com/uploads/images/original_untouched/60/150275.jpg",
       },
       summary:
-        "<p>The High Sparrow eyes another target. Jaime confronts a hero. Arya makes a plan. The North is reminded.</p>",
+        "The High Sparrow eyes another target. Jaime confronts a hero. Arya makes a plan. The North is reminded.",
       _links: {
         self: {
           href: "http://api.tvmaze.com/episodes/717449",
@@ -1470,7 +1470,7 @@ function getAllEpisodes() {
           "http://static.tvmaze.com/uploads/images/original_untouched/61/153044.jpg",
       },
       summary:
-        "<p>Jaime encounters a hero; the High Sparrow fixates on another prey; Arya hatches a new plan; Yara and Theon plot their next move; Olenna and Cersei discuss their families' futures.</p><p></p><p>While Jaime weighs his options, Cersei answers a request. Tyrion's plans bear fruit. Arya faces a new test.</p>",
+        "Jaime encounters a hero; the High Sparrow fixates on another prey; Arya hatches a new plan; Yara and Theon plot their next move; Olenna and Cersei discuss their families' futures.While Jaime weighs his options, Cersei answers a request. Tyrion's plans bear fruit. Arya faces a new test.",
       _links: {
         self: {
           href: "http://api.tvmaze.com/episodes/729573",
@@ -1495,7 +1495,7 @@ function getAllEpisodes() {
           "http://static.tvmaze.com/uploads/images/original_untouched/62/155042.jpg",
       },
       summary:
-        "<p>Ramsay surprises his audience. Jon retaliates. Dany is true to her word.</p>",
+        "Ramsay surprises his audience. Jon retaliates. Dany is true to her word.",
       _links: {
         self: {
           href: "http://api.tvmaze.com/episodes/729574",
@@ -1520,7 +1520,7 @@ function getAllEpisodes() {
           "http://static.tvmaze.com/uploads/images/original_untouched/63/157920.jpg",
       },
       summary:
-        "<p>Alliances are made, the High Sparrow is holding trials at King's Landing, Daenerys is sailing for the Seven Kingdoms and a new King of the North is crowned.</p>",
+        "Alliances are made, the High Sparrow is holding trials at King's Landing, Daenerys is sailing for the Seven Kingdoms and a new King of the North is crowned.",
       _links: {
         self: {
           href: "http://api.tvmaze.com/episodes/729575",
@@ -1545,7 +1545,7 @@ function getAllEpisodes() {
           "http://static.tvmaze.com/uploads/images/original_untouched/120/302038.jpg",
       },
       summary:
-        "<p>Jon organizes the defense of the North. Cersei tries to even the odds. Daenerys comes home.</p>",
+        "Jon organizes the defense of the North. Cersei tries to even the odds. Daenerys comes home.",
       _links: {
         self: {
           href: "http://api.tvmaze.com/episodes/937256",
@@ -1570,7 +1570,7 @@ function getAllEpisodes() {
           "http://static.tvmaze.com/uploads/images/original_untouched/120/302047.jpg",
       },
       summary:
-        "<p>Daenerys receives an unexpected visitor. Jon faces a revolt. Tyrion plans the conquest of Westeros.</p>",
+        "Daenerys receives an unexpected visitor. Jon faces a revolt. Tyrion plans the conquest of Westeros.",
       _links: {
         self: {
           href: "http://api.tvmaze.com/episodes/1221410",
@@ -1595,7 +1595,7 @@ function getAllEpisodes() {
           "http://static.tvmaze.com/uploads/images/original_untouched/122/306938.jpg",
       },
       summary:
-        "<p>Daenerys holds court. Cersei returns a gift. Jaime learns from his mistakes.</p>",
+        "Daenerys holds court. Cersei returns a gift. Jaime learns from his mistakes.",
       _links: {
         self: {
           href: "http://api.tvmaze.com/episodes/1221411",
@@ -1620,7 +1620,7 @@ function getAllEpisodes() {
           "http://static.tvmaze.com/uploads/images/original_untouched/123/307677.jpg",
       },
       summary:
-        "<p>Arya gets to the final destination. Daenerys takes it upon herself to strike back.</p>",
+        "Arya gets to the final destination. Daenerys takes it upon herself to strike back.",
       _links: {
         self: {
           href: "http://api.tvmaze.com/episodes/1221412",
@@ -1645,7 +1645,7 @@ function getAllEpisodes() {
           "http://static.tvmaze.com/uploads/images/original_untouched/124/310839.jpg",
       },
       summary:
-        "<p>Daenerys demands loyalty from the surviving Lannister soldiers; Jon heeds Bran's warning about White Walkers on the move; Cersei vows to vanquish anyone or anything that stands in her way.</p>",
+        "Daenerys demands loyalty from the surviving Lannister soldiers; Jon heeds Bran's warning about White Walkers on the move; Cersei vows to vanquish anyone or anything that stands in her way.",
       _links: {
         self: {
           href: "http://api.tvmaze.com/episodes/1221413",
@@ -1670,7 +1670,7 @@ function getAllEpisodes() {
           "http://static.tvmaze.com/uploads/images/original_untouched/125/312651.jpg",
       },
       summary:
-        "<p>Jon's mission continues north of the wall, but the odds against his ragged band of misfits may be greater than he imagined.</p>",
+        "Jon's mission continues north of the wall, but the odds against his ragged band of misfits may be greater than he imagined.",
       _links: {
         self: {
           href: "http://api.tvmaze.com/episodes/1221414",
@@ -1695,7 +1695,7 @@ function getAllEpisodes() {
           "http://static.tvmaze.com/uploads/images/original_untouched/125/314502.jpg",
       },
       summary:
-        "<p>Cersei sits on the Iron Throne; Daenerys sails across the Narrow Sea; Jon Snow is King in the North, and winter is finally here.</p>",
+        "Cersei sits on the Iron Throne; Daenerys sails across the Narrow Sea; Jon Snow is King in the North, and winter is finally here.",
       _links: {
         self: {
           href: "http://api.tvmaze.com/episodes/1221415",
@@ -1720,7 +1720,7 @@ function getAllEpisodes() {
           "http://static.tvmaze.com/uploads/images/original_untouched/191/479477.jpg",
       },
       summary:
-        "<p>Arriving at Winterfell, Jon and Daenerys struggle to unite a divided North. Jon gets some big news.</p>",
+        "Arriving at Winterfell, Jon and Daenerys struggle to unite a divided North. Jon gets some big news.",
       _links: {
         self: {
           href: "http://api.tvmaze.com/episodes/1590943",
@@ -1745,7 +1745,7 @@ function getAllEpisodes() {
           "http://static.tvmaze.com/uploads/images/original_untouched/192/482451.jpg",
       },
       summary:
-        "<p>Jaime faces judgement and Winterfell prepares for the battle to come.</p>",
+        "Jaime faces judgement and Winterfell prepares for the battle to come.",
       _links: {
         self: {
           href: "http://api.tvmaze.com/episodes/1623964",
@@ -1769,7 +1769,7 @@ function getAllEpisodes() {
         original:
           "http://static.tvmaze.com/uploads/images/original_untouched/192/482465.jpg",
       },
-      summary: "<p>Winterfell fights the Army of the Dead.</p>",
+      summary: "Winterfell fights the Army of the Dead.",
       _links: {
         self: {
           href: "http://api.tvmaze.com/episodes/1623965",
@@ -1794,7 +1794,7 @@ function getAllEpisodes() {
           "http://static.tvmaze.com/uploads/images/original_untouched/195/487839.jpg",
       },
       summary:
-        "<p>The survivors plan their next steps; Cersei makes a power move.</p><p></p>",
+        "The survivors plan their next steps; Cersei makes a power move.",
       _links: {
         self: {
           href: "http://api.tvmaze.com/episodes/1623966",
@@ -1819,7 +1819,7 @@ function getAllEpisodes() {
           "http://static.tvmaze.com/uploads/images/original_untouched/196/491994.jpg",
       },
       summary:
-        "<p>Varys betrays his queen, and Daenerys brings her forces to King's Landing.</p>",
+        "Varys betrays his queen, and Daenerys brings her forces to King's Landing.",
       _links: {
         self: {
           href: "http://api.tvmaze.com/episodes/1623967",
@@ -1844,7 +1844,7 @@ function getAllEpisodes() {
           "http://static.tvmaze.com/uploads/images/original_untouched/198/495648.jpg",
       },
       summary:
-        "<p>In the aftermath of the devastating attack on King's Landing, Daenerys must face the survivors.</p>",
+        "In the aftermath of the devastating attack on King's Landing, Daenerys must face the survivors. ",
       _links: {
         self: {
           href: "http://api.tvmaze.com/episodes/1623968",

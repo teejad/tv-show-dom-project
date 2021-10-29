@@ -9,14 +9,25 @@
   </head>
 
   <body>
-    <div id="root">
-    </div>
-    <h1>Test</h1>
+    <select name="episdoeList" id="episodeSelector">
+      <option value="pls">Please choose an episode</option>
 
+    </select>
+  <input type="text" id="searchBar">
+  <p>Showing <span id="episodeCount"></span> Episodes</p>
+<!-- <button id="allEp">All Episode</button> -->
+
+    <div id="root">
+     
+    </div>
+    <footer>
+     <a href = "https://www.tvmaze.com/" target = "_blank">Game of Thrones Episodes, Extracted from TVMaze.com</a>  
+    </footer>
     <!-- Loads a provided function called getAllEpisodes() which returns all episodes -->
     <script src="episodes.js"></script>
 
     <!-- Loads YOUR javascript code -->
     <script src="script.js"></script>
   </body>
+
 </html>
