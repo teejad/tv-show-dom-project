@@ -4,6 +4,9 @@
 //specifically: https://api.tvmaze.com/shows/82/episodes
 
 function getOneEpisode() {
+
+
+  
   return {
     id: 4952,
     url:
@@ -31,7 +34,7 @@ function getOneEpisode() {
   };
 }
 
-function getAllEpisodes() {
+function getEpisodes() {
   return [
     {
       id: 4952,

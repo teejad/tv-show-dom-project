@@ -9,23 +9,39 @@
   </head>
 
   <body>
-    <select name="episdoeList" id="episodeSelector">
+    <header class="pageHeader">
+      <h1>TV Show Project</h1>
+    <div class="rowcontent">
+    <select name="showList" id="showsList">
+      <option value="pls">Please choose a show</option>
+
+    </select> 
+
+    <select name="episdoeList" id="episodeList">
       <option value="pls">Please choose an episode</option>
-
     </select>
-  <input type="text" id="searchBar">
-  <p>Showing <span id="episodeCount"></span> Episodes</p>
-<!-- <button id="allEp">All Episode</button> -->
-
+        <input type="search" id="searchShows" placeholder="Search...">
+        <input type="search" id="searchEpisodes" placeholder="Search..." style="display: none;">
+        <p id="search-result"></p>
+</div>
+</header>
+<div class="rowcontent"> 
+  <button type="button" id="allShows">All Shows</button>
     <div id="root">
+    <div id="tvShows">    </div>
+    <div id="episodes"> </div>
+
      
     </div>
+
+
     <footer>
-     <a href = "https://www.tvmaze.com/" target = "_blank">Game of Thrones Episodes, Extracted from TVMaze.com</a>  
+     <a href = "https://www.tvmaze.com/" target = "_blank">All the data used Extracted from TVMaze.com</a>  
     </footer>
     <!-- Loads a provided function called getAllEpisodes() which returns all episodes -->
-    <script src="episodes.js"></script>
-
+    <!-- <script src="episodes.js"></script> -->
+    <script src="shows.js"></script>
+    <script src="showpage.js"></script>
     <!-- Loads YOUR javascript code -->
     <script src="script.js"></script>
   </body>
